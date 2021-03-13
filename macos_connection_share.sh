@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# Script credit to evilsocket from their pwnagotchi project:
+# https://github.com/evilsocket
+# https://github.com/evilsocket/pwnagotchi
+
 # Use ifconfig to determine your interface and IP address values. en1 is
 # the wireless interface, en3 is the RNDIS/Ethernet Gadget interface.
 
