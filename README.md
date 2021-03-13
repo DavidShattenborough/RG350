@@ -10,5 +10,5 @@ Note: Tested only with "[Rogue](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW)" f
 ````bash
 nameserver 8.8.8.8
 ````
-4. From macOS run the macos_connection_share.sh script (sudo)
+4. From macOS run the macos_connection_share.sh script (sudo) - All credit for macos_connection_share.sh script to [evilsocket](https://github.com/evilsocket) from their [pwnagotchi](https://github.com/evilsocket/pwnagotchi) project
 5. Verify internet access from the RG350 (can ping an internet address from the RG350 command line or use the "ROGUE Updater" application)
